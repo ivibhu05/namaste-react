@@ -1,6 +1,6 @@
 # Namaste React
 
-# Parser
+# Parcel(Bundler)
 
 - It creates dev build for us.
 - It create local server for us.
