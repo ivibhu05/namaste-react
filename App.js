@@ -1,7 +1,10 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 const heading1 = React.createElement(
-  "h1",
-  { id: "heading1" },
-  "I am an h1 tag"
+  "h1", //type
+  { id: "heading1" }, //attributes
+  "I am an h1 tag" //child
 );
 
 const heading2 = React.createElement(
